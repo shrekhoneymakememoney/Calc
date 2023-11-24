@@ -6,6 +6,7 @@
         static double[] bananaConversionFactors = { 19 };
         // One-dimensional array to store the conversion factor for inches
         static double[] inchesConversionFactors = { 1.5 };
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Overly Complicated Calculator!");
